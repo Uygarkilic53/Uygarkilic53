@@ -16,6 +16,7 @@
 
 ### 💻 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-283593?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white&style=for-the-badge)
