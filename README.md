@@ -49,17 +49,47 @@
 
 ## 📂 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/uygarkilic53/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=chatappMERN&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/uygarkilic53/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=bookstoreMERN&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/uygarkilic53/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=mernstacknotes&theme=tokyonight" />
-  </a>
-</p>
+### 💬 ChatApp MERN  
+<a href="https://github.com/uygarkilic53/chatappMERN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=chatappMERN&theme=tokyonight" />
+</a>  
+A real-time chat application built with **MongoDB, Express, React, and Node.js (MERN)**.  
+Features include authentication, private messaging, and responsive UI.  
+
+**Tech Stack:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
+---
+
+### 📚 Bookstore MERN  
+<a href="https://github.com/uygarkilic53/bookstoreMERN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=bookstoreMERN&theme=tokyonight" />
+</a>  
+An e-commerce style bookstore where users can browse, search, and manage books.  
+
+**Tech Stack:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
+---
+
+### 📝 Notes App MERN  
+<a href="https://github.com/uygarkilic53/mernstacknotes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=mernstacknotes&theme=tokyonight" />
+</a>  
+A note-taking app with CRUD functionality, user authentication, and a clean UI.  
+
+**Tech Stack:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
 
 ---
 
