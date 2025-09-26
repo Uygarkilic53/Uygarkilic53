@@ -47,10 +47,35 @@
 
 ---
 
+## 📂 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/uygarkilic53/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=chatappMERN&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/uygarkilic53/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=bookstoreMERN&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/uygarkilic53/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=mernstacknotes&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uygarkilic53&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uygarkilic53&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygarkilic53&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uygarkilic53&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -61,4 +86,4 @@
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+✨ *“Programs must be written for people to read, and only incidentally for machines to execute.”* — Harold Abelson  
