@@ -1,12 +1,11 @@
 <div align="center">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=us" alt="English"/>
+    <img src="https://img.shields.io/badge/English-00599C?style=for-the-badge&logo=google-translate&logoColor=white" alt="English"/>
   </a>
   <a href="./README.tr.md">
-    <img src="https://img.shields.io/badge/lang-Türkçe-red?style=for-the-badge&logo=turkey" alt="Turkish"/>
+    <img src="https://img.shields.io/badge/T%C3%BCrk%C3%A7e-C8102E?style=for-the-badge&logo=google-translate&logoColor=white" alt="Turkish"/>
   </a>
 </div>
-<br>
 
 # 👋 Merhaba, Ben Uygar Kılıç
 
