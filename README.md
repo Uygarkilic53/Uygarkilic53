@@ -1,3 +1,13 @@
+<div align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=us" alt="English"/>
+  </a>
+  <a href="./README.tr.md">
+    <img src="https://img.shields.io/badge/lang-Türkçe-red?style=for-the-badge&logo=turkey" alt="Turkish"/>
+  </a>
+</div>
+<br>
+
 # 👋 Hi, I'm Uygar Kılıç  
 
 💻 **Full Stack Web Developer** | 🚀 Passionate about building modern, scalable, and user-friendly applications  
