@@ -7,102 +7,145 @@
   </a>
 </div>
 
-# 👋 Hi, I'm Uygar Kılıç  
+# Uygar Kılıç
 
-💻 **Full Stack Web Developer** | 🚀 Passionate about building modern, scalable, and user-friendly applications  
+**Full Stack Web Developer**
 
----
+I build modern web applications with a focus on scalable backend architectures, responsive interfaces, REST APIs, database-driven systems, and third-party service integrations.
 
-## 🚀 About Me
-- 🌱 I love learning new technologies and solving challenging problems.  
-- ⚡ Skilled in both **frontend & backend** development.  
-- 🎯 Currently exploring **Flutter** for mobile app development.  
-- 💡 Always curious about performance optimization and clean code.  
+My primary development stack is JavaScript/TypeScript across the frontend and backend, with experience building applications from initial architecture through implementation and deployment.
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack
 
-### 💻 Programming Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-283593?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white&style=for-the-badge)
+### Languages
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white\&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)
+![C](https://img.shields.io/badge/C-283593?logo=c\&logoColor=white\&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus\&logoColor=white\&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-68217A?logo=csharp\&logoColor=white\&style=for-the-badge)
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+### Frontend
 
-### 📱 Mobile  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB\&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js\&logoColor=white\&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react\&logoColor=61DAFB\&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white\&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
-![MSSQL](https://img.shields.io/badge/-MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+### Backend
 
-### 🔧 Tools & Software  
-![Matlab](https://img.shields.io/badge/-Matlab-ff7f0e?logo=mathworks&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-ff6c37?logo=postman&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white\&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white\&style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
----
+### Databases
 
-## 📂 Featured Projects  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white\&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white\&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver\&logoColor=white\&style=for-the-badge)
 
-### 💬 ChatApp MERN  
-<a href="https://github.com/uygarkilic53/chatappMERN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=chatappMERN&theme=tokyonight" />
-</a>  
-A real-time chat application built with **MongoDB, Express, React, and Node.js (MERN)**.  
-Features include authentication, private messaging, and responsive UI.  
+### Tools
 
-**Tech Stack:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white\&style=for-the-badge)
 
 ---
 
-### 📚 Bookstore MERN  
-<a href="https://github.com/uygarkilic53/bookstoreMERN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=bookstoreMERN&theme=tokyonight" />
-</a>  
-An e-commerce style bookstore where users can browse, search, and manage books.  
+## Featured Projects
 
-**Tech Stack:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+### CinemaHall — Cinema Reservation Platform
 
----
+A full-stack cinema reservation application with separate user and admin functionality.
 
-### 📝 Notes App MERN  
-<a href="https://github.com/uygarkilic53/mernstacknotes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uygarkilic53&repo=mernstacknotes&theme=tokyonight" />
-</a>  
-A note-taking app with CRUD functionality, user authentication, and a clean UI.  
+**Key features:**
 
-**Tech Stack:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+* JWT-based authentication and role-based authorization
+* Movie, cinema hall, seat, and reservation management
+* Interactive seat selection and reservation flow
+* Admin dashboards for managing movies, halls, and reservations
+* REST API architecture
+* AI-powered cinema assistant
+* MongoDB data persistence
 
+**Technologies:** React, Node.js, Express.js, MongoDB, Mongoose, JWT, Tailwind CSS
+
+[View Repository](https://github.com/uygarkilic53/cinemahallMERN)
 
 ---
 
-## 📊 GitHub Stats  
+### E-Commerce Management Platform
+
+A centralized management platform designed to bring multiple e-commerce channels into a single workspace.
+
+The system focuses on backend architecture, marketplace integrations, and operational management rather than a traditional storefront.
+
+**Key features:**
+
+* Multi-store management
+* Product, order, and customer management
+* Marketplace and e-commerce platform integrations
+* API-based data synchronization
+* Shipment management
+* Audit logging
+* Authentication and authorization
+* Secure token and credential handling
+* Dashboard and KPI management
+
+**Integrations include:** Shopify, Amazon, BigCommerce, WooCommerce, Trendyol, Hepsiburada, İkas, PrestaShop, IdeaSoft, and Kargomucuz.
+
+**Technologies:** Next.js, TypeScript, Node.js, MongoDB, REST APIs
+
+---
+
+### ChatApp MERN
+
+A real-time messaging application built with the MERN stack.
+
+**Key features:**
+
+* User authentication
+* Private messaging
+* Real-time communication
+* Responsive interface
+* REST API backend
+
+**Technologies:** MongoDB, Express.js, React, Node.js
+
+[View Repository](https://github.com/uygarkilic53/chatappMERN)
+
+---
+
+### Bookstore MERN
+
+An e-commerce-style bookstore application featuring product browsing, search, and user-oriented functionality.
+
+**Technologies:** MongoDB, Express.js, React, Node.js
+
+[View Repository](https://github.com/uygarkilic53/bookstoreMERN)
+
+---
+
+## Development Focus
+
+* Full-stack web application development
+* REST API design and backend architecture
+* Authentication and authorization
+* Database-driven applications
+* Third-party API and marketplace integrations
+* Real-time applications
+* SaaS and dashboard development
+* Responsive frontend development
+* Clean and maintainable code
+
+---
+
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uygarkilic53&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
@@ -113,16 +156,15 @@ A note-taking app with CRUD functionality, user authentication, and a clean UI.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygarkilic53&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
 
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/uygar-k%C4%B1l%C4%B1%C3%A7-5700761a9/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:uygarkilic1@gmail.com)
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uygarkilic53&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <i>Building practical software with modern web technologies.</i>
 </p>
-
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/uygar-k%C4%B1l%C4%B1%C3%A7-5700761a9/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:uygarkilic1@gmail.com)
-
----
-
-✨ *“Programs must be written for people to read, and only incidentally for machines to execute.”* — Harold Abelson  
