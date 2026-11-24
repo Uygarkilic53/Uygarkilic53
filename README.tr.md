@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/English-00599C?style=for-the-badge&logo=google-translate&logoColor=white" alt="English"/>
   </a>
   <a href="./README.tr.md">
-    <img src="https://img.shields.io/badge/T%C3%BCrk%C3%A7e-C8102E?style=for-the-badge&logo=google-translate&logoColor=white" alt="Turkish"/>
+    <img src="https://img.shields.io/badge/T%C3%BCrk%C3%A7e-C8102E?style=for-the-badge&logo=google-translate&logoColor=white" alt="Türkçe"/>
   </a>
 </div>
 
@@ -11,15 +11,15 @@
 
 **Full Stack & Backend Geliştirici**
 
-Ölçeklenebilir backend mimarileri, gerçek zamanlı sistemler, REST API'ler, veritabanı performansı ve üçüncü taraf servis entegrasyonları odağında modern web ve mobil uygulamalar geliştiriyorum.
+Backend mimarileri, gerçek zamanlı sistemler, REST API'ler, veritabanı performansı ve üçüncü parti servis entegrasyonlarına odaklanarak ölçeklenebilir web ve mobil uygulamalar geliştiriyorum.
 
-Ana teknoloji yığınım **TypeScript, Node.js, Next.js, React ve Go** üzerine kurulu; projeleri ilk mimari tasarımdan konteynerizasyon, yük testi ve canlıya alma aşamasına kadar uçtan uca geliştiriyorum.
+Ana teknoloji yığınım **TypeScript, Node.js, Next.js, React ve Go** etrafında şekilleniyor; ürünleri ilk sistem tasarımından konteynerizasyona, yük testine ve canlıya alma süreçlerine kadar uçtan uca geliştiriyorum.
 
 ---
 
 ## Teknoloji Yığını
 
-### Programlama Dilleri
+### Diller
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -44,6 +44,7 @@ Ana teknoloji yığınım **TypeScript, Node.js, Next.js, React ve Go** üzerine
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=for-the-badge)
 ![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ACD7?logo=go&logoColor=white&style=for-the-badge)
+![Go Echo](https://img.shields.io/badge/Go_Echo-00ACD7?logo=go&logoColor=white&style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
@@ -69,86 +70,86 @@ Ana teknoloji yığınım **TypeScript, Node.js, Next.js, React ve Go** üzerine
 
 ## Öne Çıkan Projeler
 
-### VeloStream — Polyglot Canlı Yayın Platformu
+### VeloStream — Çok Dilli (Polyglot) Canlı Yayın Platformu
 
-Temel API iş akışlarını yüksek eşzamanlılık gerektiren gerçek zamanlı yüklerden ayırmak amacıyla polyglot backend mimarisiyle geliştirilmiş Twitch benzeri canlı yayın platformu.
+Temel API iş akışlarını yüksek eşzamanlılık gerektiren gerçek zamanlı iş yüklerinden ayırmak için çok dilli (polyglot) bir backend mimarisiyle tasarlanmış Twitch tarzı bir canlı yayın web uygulaması.
 
 **Öne çıkan özellikler:**
 
-- Kimlik doğrulama ve REST API süreçleri için Node.js (Fastify), yüksek eşzamanlı gerçek zamanlı işlemler için Go (Fiber) kullanan çok dilli mimari
-- Canlı yayın akışları ve anlık izleyici etkileşimi
-- PostgreSQL ile ilişkisel veritabanı modellemesi
-- Docker ile konteynerize geliştirme ortamı ve k6 ile yük/duman testleri
+- Kimlik doğrulama/REST API'ler için Node.js (Fastify) ve yüksek eşzamanlılıklı gerçek zamanlı işlemler için Go (Fiber) kullanan polyglot mikroservis yapısı
+- Canlı yayın iş akışları ve gerçek zamanlı izleyici etkileşimi
+- PostgreSQL ile ilişkisel veri modelleme
+- Konteynerize geliştirme ortamı ve yük/duman (load/smoke) testi iş akışı
 
 **Teknolojiler:** Go (Fiber), Node.js (Fastify), React, PostgreSQL, Docker, k6
 
-[Repoyu İncele](https://github.com/Uygarkilic53/VeloStreamWeb)
+[Repoyu Görüntüle](https://github.com/Uygarkilic53/VeloStreamWeb)
 
 ---
 
 ### CHATUKMOBILE — Gerçek Zamanlı Mobil Sohbet Uygulaması
 
-Önbellekleme ve yerel çevrimdışı depolama desteğiyle hızlı ve kesintisiz iletişim sunmak üzere tasarlanmış çapraz platform mobil mesajlaşma uygulaması.
+Önbellekleme ve yerel çevrimdışı kalıcılık desteğiyle hızlı ve güvenilir iletişim için tasarlanmış çok platformlu bir mobil mesajlaşma uygulaması.
 
 **Öne çıkan özellikler:**
 
 - Gerçek zamanlı mesajlaşma mimarisi
 - Düşük gecikmeli veri erişimi için Redis önbellekleme katmanı
-- Çevrimdışı erişim ve yerel mesaj depolama için SQLite entegrasyonu
-- React Native ile geliştirilmiş çapraz platform mobil arayüz
-- Ölçeklenebilir Node.js backend servisi
+- Çevrimdışı öncelikli (offline-first) mesaj depolama için yerel SQLite kalıcılığı
+- React Native ile geliştirilmiş çok platformlu mobil arayüz
+- Ölçeklenebilir Node.js backend API'si
 
 **Teknolojiler:** React Native, Node.js, Redis, SQLite, WebSockets
 
-[Repoyu İncele](https://github.com/Uygarkilic53/CHATUKMOBILE)
+[Repoyu Görüntüle](https://github.com/Uygarkilic53/CHATUKMOBILE)
 
 ---
 
 ### E-Ticaret Yönetim Platformu
 
-Birden fazla e-ticaret mağazasını ve pazaryerini tek bir operasyonel panelde toplayan merkezi çok kanallı SaaS platformu.
+Birden fazla e-ticaret mağazasını ve pazaryerini tek bir operasyonel çalışma alanında birleştirmek için tasarlanmış merkezi, çok kanallı bir SaaS platformu.
 
 **Öne çıkan özellikler:**
 
-- Çoklu mağaza için ürün, sipariş, stok ve müşteri senkronizasyonu
-- Pazaryeri, e-ticaret altyapısı ve kargo firması API entegrasyonları
-- Şifreli API anahtarı ve kimlik bilgisi yönetimi
-- Rol tabanlı yetkilendirme, işlem kayıtları (audit log) ve KPI panelleri
-- Gönderi yönetimi ve otomatik arka plan iş akışları
+- Çoklu mağaza ürün, sipariş, stok ve müşteri senkronizasyonu
+- Pazaryeri, e-ticaret ve kargo firması API entegrasyonları
+- Şifrelenmiş API token ve kimlik bilgisi yönetimi
+- Rol tabanlı erişim kontrolü (RBAC), denetim kaydı (audit logging) ve KPI panelleri
+- Kargo yönetimi ve otomatik arka plan iş akışları
 
-**Desteklenen entegrasyonlar:** Shopify, Amazon, BigCommerce, WooCommerce, Trendyol, Hepsiburada, İkas, PrestaShop, IdeaSoft ve Kargomucuz.
+**Entegrasyonlar:** Shopify, Amazon, BigCommerce, WooCommerce, Trendyol, Hepsiburada, İkas, PrestaShop, IdeaSoft ve Kargomucuz.
 
-**Teknolojiler:** Next.js, TypeScript, Node.js, Express.js, MongoDB, REST API
+**Teknolojiler:** Next.js, TypeScript, Node.js, Express.js, MongoDB, REST API'ler
 
 ---
 
 ### CinemaHall — Sinema Rezervasyon Platformu
 
-Kullanıcı ve yönetici panellerine sahip, yapay zeka destekli film öneri asistanı barındıran tam yığın sinema bilet rezervasyon uygulaması.
+Ayrı kullanıcı ve yönetici panellerine ek olarak yapay zeka destekli öneri akışına sahip uçtan uca bir sinema rezervasyon uygulaması.
 
 **Öne çıkan özellikler:**
 
 - JWT tabanlı kimlik doğrulama ve rol tabanlı yetkilendirme
-- İnteraktif salon/koltuk seçimi ve rezervasyon akışı
-- Film, salon ve rezervasyon yönetimi için admin panelleri
-- Gemini API destekli yapay zeka sinema asistanı
-- MongoDB tabanlı REST API mimarisi
+- Gerçek zamanlı rezervasyon akışıyla etkileşimli salon ve koltuk seçimi
+- Filmleri, salonları ve rezervasyonları yönetmek için yönetici panelleri
+- Gemini AI destekli sinema asistanı
+- MongoDB veri kalıcılığına sahip REST API backend'i
 
 **Teknolojiler:** React, Node.js, Express.js, MongoDB, Mongoose, JWT, Tailwind CSS, Gemini API
 
-[Repoyu İncele](https://github.com/uygarkilic53/cinemahallMERN)
+[Repoyu Görüntüle](https://github.com/uygarkilic53/cinemahallMERN)
 
 ---
 
-## Odak Alanlarım
+## Geliştirme Odak Alanları
 
-- Full-stack web ve çapraz platform mobil uygulama geliştirme
-- Polyglot backend mimarileri (Node.js & Go)
-- REST API tasarımı, mikroservisler ve üçüncü taraf pazaryeri entegrasyonları
+- Full-stack web ve çok platformlu mobil uygulama geliştirme
+- Çok dilli (polyglot) backend mimarileri (Node.js & Go)
+- REST API tasarımı, mikroservisler ve üçüncü parti pazaryeri entegrasyonları
 - Gerçek zamanlı sistemler (WebSockets / Socket.IO) ve önbellekleme stratejileri (Redis)
 - İlişkisel ve NoSQL veritabanı tasarımı (PostgreSQL, MongoDB, SQLite)
 - Konteynerizasyon, Linux ortamları ve performans testleri (Docker, k6)
-- SaaS platformları, yönetim panelleri ve temiz, sürdürülebilir kod mimarisi
+- SaaS platformları, yönetim panelleri ve temiz, sürdürülebilir kod
 
 ---
 
@@ -168,7 +169,7 @@ Kullanıcı ve yönetici panellerine sahip, yapay zeka destekli film öneri asis
 ## İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/uygar-k%C4%B1l%C4%B1%C3%A7-5700761a9/)
-[![E-posta](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:uygarkilic1@gmail.com)
+[![E-posta](https://img.shields.io/badge/E--posta-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:uygarkilic1@gmail.com)
 
 ---
 
