@@ -44,6 +44,7 @@ My primary stack centers on **TypeScript, Node.js, Next.js, React, and Go**, tak
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=for-the-badge)
 ![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ACD7?logo=go&logoColor=white&style=for-the-badge)
+![Go Echo](https://img.shields.io/badge/Go_Echo-00ACD7?logo=go&logoColor=white&style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
